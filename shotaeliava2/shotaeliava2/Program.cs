@@ -10,7 +10,7 @@ namespace shotaeliava2
             Console.WriteLine("My name is Shota Eliava");
             Console.WriteLine("What Yours?");
             string Texst=Console.ReadLine();
-            Console.WriteLine("What Yours?" + Texst);
+            Console.WriteLine("hello" + Texst);
         }
     }
 }
