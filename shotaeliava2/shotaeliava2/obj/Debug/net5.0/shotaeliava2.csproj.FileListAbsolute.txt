@@ -1,0 +1,16 @@
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\obj\Debug\net5.0\shotaeliava2.csproj.AssemblyReference.cache
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\obj\Debug\net5.0\shotaeliava2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\obj\Debug\net5.0\shotaeliava2.AssemblyInfoInputs.cache
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\obj\Debug\net5.0\shotaeliava2.AssemblyInfo.cs
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\obj\Debug\net5.0\shotaeliava2.csproj.CoreCompileInputs.cache
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\bin\Debug\net5.0\shotaeliava2.exe
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\bin\Debug\net5.0\shotaeliava2.deps.json
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\bin\Debug\net5.0\shotaeliava2.runtimeconfig.json
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\bin\Debug\net5.0\shotaeliava2.runtimeconfig.dev.json
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\bin\Debug\net5.0\shotaeliava2.dll
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\bin\Debug\net5.0\ref\shotaeliava2.dll
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\bin\Debug\net5.0\shotaeliava2.pdb
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\obj\Debug\net5.0\shotaeliava2.dll
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\obj\Debug\net5.0\ref\shotaeliava2.dll
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\obj\Debug\net5.0\shotaeliava2.pdb
+C:\Users\SHota\source\repos\shotaeliava2\shotaeliava2\obj\Debug\net5.0\shotaeliava2.genruntimeconfig.cache
