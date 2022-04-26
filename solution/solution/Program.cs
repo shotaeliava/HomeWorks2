@@ -11,7 +11,7 @@ namespace solution
             Console.WriteLine("My name is Shota Eliava");
             Console.WriteLine("What Yours?");
             string Texst = Console.ReadLine();
-            Console.WriteLine("Your?" + Texst);
+            Console.WriteLine("Hello<3" + Texst);
         }
     }
 }
