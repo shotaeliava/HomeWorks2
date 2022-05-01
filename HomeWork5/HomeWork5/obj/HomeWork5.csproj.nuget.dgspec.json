@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHota\\source\\repos\\HomeWork5\\HomeWork5\\HomeWork5.csproj": {}
+    "C:\\Users\\SHota\\source\\repos\\homework5\\HomeWork5\\HomeWork5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHota\\source\\repos\\HomeWork5\\HomeWork5\\HomeWork5.csproj": {
+    "C:\\Users\\SHota\\source\\repos\\homework5\\HomeWork5\\HomeWork5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHota\\source\\repos\\HomeWork5\\HomeWork5\\HomeWork5.csproj",
+        "projectUniqueName": "C:\\Users\\SHota\\source\\repos\\homework5\\HomeWork5\\HomeWork5.csproj",
         "projectName": "HomeWork5",
-        "projectPath": "C:\\Users\\SHota\\source\\repos\\HomeWork5\\HomeWork5\\HomeWork5.csproj",
+        "projectPath": "C:\\Users\\SHota\\source\\repos\\homework5\\HomeWork5\\HomeWork5.csproj",
         "packagesPath": "C:\\Users\\SHota\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHota\\source\\repos\\HomeWork5\\HomeWork5\\obj\\",
+        "outputPath": "C:\\Users\\SHota\\source\\repos\\homework5\\HomeWork5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHota\\AppData\\Roaming\\NuGet\\NuGet.Config",

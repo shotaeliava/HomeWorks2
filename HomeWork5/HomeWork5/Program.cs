@@ -52,14 +52,22 @@ namespace HomeWork5
              #endregion */
 
 
-            /* #region exersice3
+             #region exersice3
             Console.WriteLine("EnTer X:");
             var X =Convert.ToDecimal(Console.ReadLine());
             Console.WriteLine("EnTer Y:");
-            var Y =Convert.ToDecimal(Console.ReadLine());   
-            Console.WriteLine($"X:{ Y}");
-            Console.WriteLine($"Y:{X}");
-            */
+            var Y =Convert.ToDecimal(Console.ReadLine());
+
+            var Z = X * Y;
+            X = Z / X;
+            Y = Z / Y;
+            
+            
+            
+            Console.WriteLine($"X:{ X}");
+            Console.WriteLine($"Y:{Y}");
+            #endregion
+
 
             /*#region exercise 4
             Console.WriteLine("Choose Numb 1-9");
@@ -72,21 +80,21 @@ namespace HomeWork5
                 Console.WriteLine(Numb*I);
             }
             #endregion*/
-           
-            
-            #region exercise 5
-            Console.WriteLine("Enter Numb:");   
-            var Yournumb=Convert.ToByte(Console.ReadLine());
-            var MyNumb = 1;
-                
-            while(MyNumb<=Yournumb)
-            {
-                MyNumb*=2;
-                Console.WriteLine(MyNumb*MyNumb);
-                
 
-            }
-            #endregion
+
+            /* #region exercise 5
+             Console.WriteLine("Enter Numb:");   
+             var Yournumb=Convert.ToByte(Console.ReadLine());
+             var MyNumb = 1;
+
+             while(MyNumb<=Yournumb)
+             {
+                 MyNumb*=2;
+                 Console.WriteLine(MyNumb*MyNumb);
+
+
+             }
+             #endregion */
 
 
 
