@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XuEETXyFhWD16GWl6r1d58C0XQe9rLvlU/qK1NTnkexgrrlyFTSCKQ2IFuJcSfo13U3vrTYKToNXcifz7nvYMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SHota\\source\\repos\\HomeWork6\\HomeWork6\\HomeWork6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHota\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
