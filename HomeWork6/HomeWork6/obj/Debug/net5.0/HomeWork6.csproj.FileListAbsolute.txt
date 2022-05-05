@@ -1,0 +1,16 @@
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\bin\Debug\net5.0\HomeWork6.exe
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\bin\Debug\net5.0\HomeWork6.deps.json
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\bin\Debug\net5.0\HomeWork6.runtimeconfig.json
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\bin\Debug\net5.0\HomeWork6.runtimeconfig.dev.json
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\bin\Debug\net5.0\HomeWork6.dll
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\bin\Debug\net5.0\ref\HomeWork6.dll
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\bin\Debug\net5.0\HomeWork6.pdb
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\obj\Debug\net5.0\HomeWork6.csproj.AssemblyReference.cache
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\obj\Debug\net5.0\HomeWork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\obj\Debug\net5.0\HomeWork6.AssemblyInfoInputs.cache
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\obj\Debug\net5.0\HomeWork6.AssemblyInfo.cs
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\obj\Debug\net5.0\HomeWork6.csproj.CoreCompileInputs.cache
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\obj\Debug\net5.0\HomeWork6.dll
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\obj\Debug\net5.0\ref\HomeWork6.dll
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\obj\Debug\net5.0\HomeWork6.pdb
+C:\Users\SHota\source\repos\HomeWork6\HomeWork6\obj\Debug\net5.0\HomeWork6.genruntimeconfig.cache
